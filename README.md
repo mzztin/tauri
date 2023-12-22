@@ -25,6 +25,6 @@ This adder doesn't take any options of its own.
 
 After the adder runs,
 
-- You can [configure Tauri](https://tauri.studio/en/docs/api/config/) in the `src-tauri/tauri.conf.json` file.
+- You can [configure Tauri](https://tauri.app/v1/api/config) in the `src-tauri/tauri.conf.json` file.
 
-- You can import from [the `"@tauri-apps/api"` package](https://tauri.studio/en/docs/api/js/index) to access the backend.
+- You can import from [the `"@tauri-apps/api"` package](https://tauri.app/v1/api/js) to access the backend.
